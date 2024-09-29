@@ -31,7 +31,7 @@ Make sure you have **Node.js** and **npm** installed on your machine.
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/leandrodailoff/ecommerce-example.git
+   git clone https://github.com/leandrodailoff/Ecommerce.git
    \`\`\`
 
 2. Navigate into the project directory:
@@ -101,7 +101,7 @@ Asegúrate de tener **Node.js** y **npm** instalados en tu máquina.
 
 1. Clona el repositorio:
    \`\`\`bash
-   git clone https://github.com/leandrodailoff/ecommerce-example.git
+   git clone https://github.com/leandrodailoff/Ecommerce.git
    \`\`\`
 
 2. Ve al directorio del proyecto:
